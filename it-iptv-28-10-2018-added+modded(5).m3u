@@ -1,0 +1,737 @@
+#EXTINF:0 group-title="IT: Italy",IT: 1 MEDIASET
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: 2 MEDIASET
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: 2017 GEO
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ALICE
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9155.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ANTENNA TRE NORDEST
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: BOING
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9182.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 5 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9066.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 85 PUGLIA
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CARINA TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CIELO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9153.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: CLASS HORSE TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9136.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: DEEJAY TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9169.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: DISCOVERY HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9158.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: DISCOVERY SCIENCE HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9157.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: DMAX
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9151.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: EDEN TV 86
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ESPERIA TV 18 CALABRIA
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ETV MARCHE
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FINE LIVING
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9162.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOCUS
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9161.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/678.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX ANIMANTION
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/684.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX COMEDY HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9095.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX COMEDY
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/681.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX CRIME
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/680.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX LIFE HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9094.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: GIALLO
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9159.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: HISTORY
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9164.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: INVESTIGATION DISCOVERY
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9160.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: IRIS
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9072.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: IRIS MEDIASET
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: LA 5
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9068.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: LA 5 MEDIASET
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: LA 7D HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9071.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: M2O TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9208.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: MARCOPOLO
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9171.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: MEDIASET EXTRA
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9067.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9167.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO PEOPLE HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9166.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO POEPLE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/689.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NAT GEO WILD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/688.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NATIONAL GEOGRAPHIC
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/687.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: NETTUNO TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ACTION HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9191.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM COMEDY
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9193.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CRIME (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9205.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM CRIME 24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9206.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM EMOTION
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9203.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM ENERGY
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9202.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM JOI HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9200.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM JOI 24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9201.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM STORIES
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9196.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM STUDIO UNIVERSAL
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9204.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PRIMARETE LOMBARDIA
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: PRIMOCANALE LIGURIA
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 2 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9060.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 2
+http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/649.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 3
+http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/650.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9058.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 4
+http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/651.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9062.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI 5
+http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/652.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI PREMIUM
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9077.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SUDTIROL SWITZERLAND
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI YOYO
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9187.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: REAL TIME HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9168.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RETE4 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9065.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RSI LA1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9075.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RTTR TV TRENTO
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO
+http://o4.senape.tv:1935/webtv_live4/_definst_/0QBXFQ2L0I5P/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SENATO TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SICILIA MEDIA TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY ATLANTIC HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9091.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY CALCIO 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9139.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PREMIUM CALCIO4 HD
+http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/579.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9109.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 10 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9108.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 11 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9107.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 12 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9106.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 14 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9111.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 15 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9112.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 17 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9114.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 18 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9115.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 19 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9116.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 2 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9105.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 21 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9118.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 22 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9119.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 3 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9104.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 4 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9103.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 5 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9102.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 7 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9100.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 8 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9099.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY PRIMAFILA 9 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9098.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY TG 24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9209.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY UNO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9080.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: STANDBY TV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: STUDIO 100 PUGLIA
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SUPER
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9183.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SUPER J TV
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELE 8 ENTERTAINMENT ITALIAN
+http://video2.kronopress.com:1935/tele8_live/tele8/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELE MILANO
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEABRUZZO TV
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELECHIARA
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELECOLOR
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEFRIULI
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEMIA
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEMILANO ENTERTAINMENT ITALIAN
+http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTENEVE
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTEVE
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEMONTEVE 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA (1+)
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEPAVIA ENTERTAINMENT ITALIAN
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA LIFESTYLE
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA MIA
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELESUD TRAPANI
+http://live.streamcaster.net:1935/telesud3_live/telesud/chunklist_w1977902813.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELETICINO
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9177.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEVOMERO CAMPANIA
+http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TG NORBA 24
+http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TGCOM 24
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9211.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TOP CRIME
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9207.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TRENTINO TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TRENTINO TV (1+)
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TSN LIVIGNO
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TSN LIVIGNO (1+)
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TV 2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TV8
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9070.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TVA VICENZA
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TVRS MARCHE
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VERA TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO 33
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO BRESCIA 2
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VIDEO CALABRIA
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: VIDEONOLA
+http://79.143.181.106:8000/live/videonola/videonola/1021.m3u8
+#EXTINF:-1,(IT) Alice
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9155.ts
+#EXTINF:-1,(IT) Animal Planet
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9154.ts
+#EXTINF:-1,(IT) Automoto TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9135.ts
+#EXTINF:-1,(IT) Baby TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9178.ts
+#EXTINF:-1,(IT) Boing
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9182.ts
+#EXTINF:-1,(IT) Caccia e Pesca
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9173.ts
+#EXTINF:-1,(IT) Canale 5 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9066.ts
+#EXTINF:-1,(IT) Cartoon Network
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9181.ts
+#EXTINF:-1,(IT) Cartoonito
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9180.ts
+#EXTINF:-1,(IT) Cielo HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9153.ts
+#EXTINF:-1,(IT) Class Horse TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9136.ts
+#EXTINF:-1,(IT) Deejay TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9169.ts
+#EXTINF:-1,(IT) Discovery HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9158.ts
+#EXTINF:-1,(IT) Discovery Science HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9157.ts
+#EXTINF:-1,(IT) Discovery Travel & Living HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9156.ts
+#EXTINF:-1,(IT) Disney Junior HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9184.ts
+#EXTINF:-1,(IT) Disney XD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9179.ts
+#EXTINF:-1,(IT) Dmax
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9151.ts
+#EXTINF:-1,(IT) Dmax  1
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9152.ts
+#EXTINF:-1,(IT) E!
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9163.ts
+#EXTINF:-1,(IT) Eurosport 1
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9133.ts
+#EXTINF:-1,(IT) Eurosport 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9132.ts
+#EXTINF:-1,(IT) Expansione TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9175.ts
+#EXTINF:-1,(IT) Fine living
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9162.ts
+#EXTINF:-1,(IT) Focus
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9161.ts
+#EXTINF:-1,(IT) Fox Animation HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9096.ts
+#EXTINF:-1,(IT) Fox Comedy HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9095.ts
+#EXTINF:-1,(IT) Fox HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9093.ts
+#EXTINF:-1,(IT) Fox Life HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9094.ts
+#EXTINF:-1,(IT) Fox Sports HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9124.ts
+#EXTINF:-1,(IT) GAMBERRO ROSSO HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9170.ts
+#EXTINF:-1,(IT) Giallo
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9159.ts
+#EXTINF:-1,(IT) History
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9164.ts
+#EXTINF:-1,(IT) INTER CHANNEL
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9138.ts
+#EXTINF:-1,(IT) Investigation Discovery
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9160.ts
+#EXTINF:-1,(IT) Iris
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9072.ts
+#EXTINF:-1,(IT) Italia 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9063.ts
+#EXTINF:-1,(IT) Italia 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9064.ts
+#EXTINF:-1,(IT) Italian Fishing TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9174.ts
+#EXTINF:-1,(IT) K2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9185.ts
+#EXTINF:-1,(IT) La 5
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9068.ts
+#EXTINF:-1,(IT) LA 7d HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9071.ts
+#EXTINF:-1,(IT) La7d HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9069.ts
+#EXTINF:-1,(IT) M2O TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9208.ts
+#EXTINF:-1,(IT) MANGA
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9186.ts
+#EXTINF:-1,(IT) MarcoPolo
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9171.ts
+#EXTINF:-1,(IT) Mediaset Extra
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9067.ts
+#EXTINF:-1,(IT) Nat Geo HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9167.ts
+#EXTINF:-1,(IT) Nat Geo People HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9166.ts
+#EXTINF:-1,(IT) Nat Geo Wild HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9165.ts
+#EXTINF:-1,(IT) Nautical HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9172.ts
+#EXTINF:-1,(IT) Nuvolari
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9176.ts
+#EXTINF:-1,(IT) Paramount Channel HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9097.ts
+#EXTINF:-1,(IT) Milan Channel
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9137.ts
+#EXTINF:-1,(IT) Premium Action  24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9192.ts
+#EXTINF:-1,(IT) Premium Action HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9191.ts
+#EXTINF:-1,(IT) Premium Calcio 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9150.ts
+#EXTINF:-1,(IT) Premium Calcio 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9149.ts
+#EXTINF:-1,(IT) Premium Calcio 3
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9148.ts
+#EXTINF:-1,(IT) Premium Calcio 4
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9147.ts
+#EXTINF:-1,(IT) Premium Calcio 5
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9146.ts
+#EXTINF:-1,(IT) Premium Calcio 6
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9145.ts
+#EXTINF:-1,(IT) Premium Cinema  24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9190.ts
+#EXTINF:-1,(IT) Premium Cinema 2  24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9189.ts
+#EXTINF:-1,(IT) Premium Cinema 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9188.ts
+#EXTINF:-1,(IT) Premium Cinema HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9194.ts
+#EXTINF:-1,(IT) Premium Comedy
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9193.ts
+#EXTINF:-1,(IT) Premium Crime  24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9206.ts
+#EXTINF:-1,(IT) Premium Crime HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9205.ts
+#EXTINF:-1,(IT) Premium Emotion
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9203.ts
+#EXTINF:-1,(IT) Premium Energy
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9202.ts
+#EXTINF:-1,(IT) Premium Joi  24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9201.ts
+#EXTINF:-1,(IT) Premium Joi HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9200.ts
+#EXTINF:-1,(IT) Premium Sport 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9199.ts
+#EXTINF:-1,(IT) Premium Sport 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9198.ts
+#EXTINF:-1,(IT) Premium Sport HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9197.ts
+#EXTINF:-1,(IT) Premium Stories
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9196.ts
+#EXTINF:-1,(IT) Premium Studio Universal
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9204.ts
+#EXTINF:-1,(IT) RAI 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9061.ts
+#EXTINF:-1,(IT) RAI 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9060.ts
+#EXTINF:-1,(IT) RAI 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9059.ts
+#EXTINF:-1,(IT) RAI 4 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9058.ts
+#EXTINF:-1,(IT) RAI 5 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9062.ts
+#EXTINF:-1,(IT) RAI GULP
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9079.ts
+#EXTINF:-1,(IT) Rai Movie
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9078.ts
+#EXTINF:-1,(IT) Rai News 24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9210.ts
+#EXTINF:-1,(IT) Rai Premium
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9077.ts
+#EXTINF:-1,(IT) Rai Sport 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9130.ts
+#EXTINF:-1,(IT) Rai Sport 2
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9129.ts
+#EXTINF:-1,(IT) Rai Storia
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9076.ts
+#EXTINF:-1,(IT) Rai Yoyo
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9187.ts
+#EXTINF:-1,(IT) Real Time HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9168.ts
+#EXTINF:-1,(IT) Rete4 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9065.ts
+#EXTINF:-1,(IT) RSI La1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9075.ts
+#EXTINF:-1,(IT) RSI La2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9074.ts
+#EXTINF:-1,(IT) Sky Atlantic HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9091.ts
+#EXTINF:-1,(IT) Sky Calcio 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9139.ts
+#EXTINF:-1,(IT) Sky Calcio 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9140.ts
+#EXTINF:-1,(IT) Sky Calcio 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9141.ts
+#EXTINF:-1,(IT) Sky Calcio 4 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9142.ts
+#EXTINF:-1,(IT) Sky Calcio 5 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9143.ts
+#EXTINF:-1,(IT) Sky Calcio 6 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9144.ts
+#EXTINF:-1,(IT) Sky Cinema  1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9082.ts
+#EXTINF:-1,(IT) Sky Cinema  24 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9090.ts
+#EXTINF:-1,(IT) Sky Cinema 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9081.ts
+#EXTINF:-1,(IT) Sky Cinema Classic
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9089.ts
+#EXTINF:-1,(IT) Sky Cinema Comedy HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9092.ts
+#EXTINF:-1,(IT) Sky Cinema Cult HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9084.ts
+#EXTINF:-1,(IT) Sky Cinema Family HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9085.ts
+#EXTINF:-1,(IT) Sky Cinema Hits HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9083.ts
+#EXTINF:-1,(IT) Sky Cinema Max  1
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9088.ts
+#EXTINF:-1,(IT) Sky Cinema Max HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9087.ts
+#EXTINF:-1,(IT) Sky Cinema Passion HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9086.ts
+#EXTINF:-1,(IT) Sky Primafila 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9109.ts
+#EXTINF:-1,(IT) Sky Primafila 10 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9108.ts
+#EXTINF:-1,(IT) Sky Primafila 11 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9107.ts
+#EXTINF:-1,(IT) Sky PrimaFila 12 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9106.ts
+#EXTINF:-1,(IT) Sky Primafila 13 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9110.ts
+#EXTINF:-1,(IT) Sky Primafila 14 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9111.ts
+#EXTINF:-1,(IT) Sky Primafila 15 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9112.ts
+#EXTINF:-1,(IT) Sky Primafila 16 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9113.ts
+#EXTINF:-1,(IT) Sky Primafila 17 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9114.ts
+#EXTINF:-1,(IT) Sky Primafila 18 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9115.ts
+#EXTINF:-1,(IT) Sky Primafila 19 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9116.ts
+#EXTINF:-1,(IT) Sky Primafila 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9105.ts
+#EXTINF:-1,(IT) Sky Primafila 20 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9117.ts
+#EXTINF:-1,(IT) Sky Primafila 21 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9118.ts
+#EXTINF:-1,(IT) Sky Primafila 22 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9119.ts
+#EXTINF:-1,(IT) Sky Primafila 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9104.ts
+#EXTINF:-1,(IT) Sky Primafila 4 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9103.ts
+#EXTINF:-1,(IT) Sky Primafila 5 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9102.ts
+#EXTINF:-1,(IT) Sky Primafila 6 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9101.ts
+#EXTINF:-1,(IT) Sky Primafila 7 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9100.ts
+#EXTINF:-1,(IT) Sky Primafila 8 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9099.ts
+#EXTINF:-1,(IT) Sky Primafila 9 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9098.ts
+#EXTINF:-1,(IT) Sky Sport 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.ts
+#EXTINF:-1,(IT) Sky Sport 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.ts
+#EXTINF:-1,(IT) Sky Sport 24 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9120.ts
+#EXTINF:-1,(IT) Sky Sport 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9123.ts
+#EXTINF:-1,(IT) Sky Sport F1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9127.ts
+#EXTINF:-1,(IT) Sky Sport MotoGP HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9128.ts
+#EXTINF:-1,(IT) Sky Sport Plus HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9125.ts
+#EXTINF:-1,(IT) Sky Super Calcio HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9126.ts
+#EXTINF:-1,(IT) Sky TG 24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9209.ts
+#EXTINF:-1,(IT) Sky Uno HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9080.ts
+#EXTINF:-1,(IT) Sport italia
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9134.ts
+#EXTINF:-1,(IT) Super
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9183.ts
+#EXTINF:-1,(IT) Supertennis HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9131.ts
+#EXTINF:-1,(IT) TeleTicino
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9177.ts
+#EXTINF:-1,(IT) TGCOM 24
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9211.ts
+#EXTINF:-1,(IT) Top Crime
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9207.ts
+#EXTINF:-1,(IT) TV Sat 2000
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9073.ts
+#EXTINF:-1,(IT) TV8
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9070.ts
